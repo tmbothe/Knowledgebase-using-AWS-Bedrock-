@@ -1,4 +1,4 @@
-# Knowledgebase-using-AWS-Bedrock
+# Intelligent document querying system using AWS Bedrock
 
 ![image](https://github.com/tmbothe/Knowledgebase-using-AWS-Bedrock-/blob/main/bedrock.jpg)
 
