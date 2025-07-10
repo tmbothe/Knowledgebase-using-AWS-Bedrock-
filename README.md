@@ -1,1 +1,1 @@
-# Knowledgebase-using-AWS-Bedrock-
+# Knowledgebase-using-AWS-Bedrock
