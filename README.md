@@ -1,6 +1,6 @@
 # Knowledgebase-using-AWS-Bedrock
 
-https://github.com/tmbothe/Knowledgebase-using-AWS-Bedrock-/blob/main/bedrock.jpg
+![image](https://github.com/tmbothe/Knowledgebase-using-AWS-Bedrock-/blob/main/bedrock.jpg)
 
 ## Project Summary
 In this project, we will leverage Amazon Bedrock to create an intelligent document querying system, showcasing the real-world applications of generative AI. We will combine this with other AWS services to build a GenAI RAG solution:
